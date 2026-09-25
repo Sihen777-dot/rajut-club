@@ -8,7 +8,7 @@ const artikelModel = require("../models/artikelModel");
 const pembelianModel = require("../models/pembelianModel");
 
 // Kategori sesuai ENUM kolom produk.kategori di database
-const KATEGORI_VALID = ["Pakaian", "Aksesoris", "Tas&Mainan"];
+const KATEGORI_VALID = ["Pakaian", "Aksesoris", "Tas & Mainan"];
 
 // ===================== CRUD PRODUK =====================
 
